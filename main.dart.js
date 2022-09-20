@@ -44348,7 +44348,7 @@ case 2:return A.Y(o,r)}})
 return A.a_($async$lm,r)}}
 A.a6U.prototype={}
 A.ta.prototype={
-gmg(){return"assets/circular.png"},
+gmg(){return"assets/icon.png"},
 zM(a){var s,r={},q=a.a
 if(q==null)q=$.Q0()
 r.a=r.b=null
@@ -44374,7 +44374,7 @@ if(q==null)return a.h(0,r)
 if(b<2||b>(r+q)/2)return a.h(0,q)
 else return a.h(0,r)},
 Fi(a){var s,r,q,p
-if(a==="assets/circular.png")return 1
+if(a==="assets/icon.png")return 1
 s=A.hC(a,0,null)
 r=s.gmn().length>1?s.gmn()[s.gmn().length-2]:""
 q=$.al_().rU(r)
